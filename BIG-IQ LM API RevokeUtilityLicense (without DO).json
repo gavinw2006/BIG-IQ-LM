@@ -1,0 +1,10 @@
+{
+    "licensePoolName": "loadv1-pool",
+    "command": "revoke",
+    "address": "10.6.1.11",
+    "skuKeyword1": "LTMAPM",
+    "skuKeyword2": "1G1",
+    "unitOfMeasure": "daily",
+    "user": "admin",
+    "password": "xxxx"
+  }

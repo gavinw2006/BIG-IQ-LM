@@ -8,6 +8,8 @@ The API examples on BIG-IQ License Manager (LM) automatic assign/revoke (push) a
 
 The DO Declarations on BIG-IP to automatic assign (pull), revoke and relicense a license from an ELA/Utility license pool on a BIG-IQ LM;
 
+Postman BIG-IQ LM testing collections;
+
 Adding the BIG-IQ LM intro Deck v1.1 pdf;
 
 Prerequisites:
